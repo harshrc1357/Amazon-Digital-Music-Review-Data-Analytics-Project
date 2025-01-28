@@ -1,0 +1,11 @@
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": ["s3://bda-miniproject-hchauhan/Processed_Data/transformed_data.csv"]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ","
+    }
+}
